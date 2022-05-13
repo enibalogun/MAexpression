@@ -1,0 +1,12 @@
+seq_id,source,type,start,end,score,strand,phase,attributes
+chromosome_03,JGI_gene,gene,5898571,5905219,.,+,.,ID=ChCC-v11008201m.g
+chromosome_03,JGI_gene,gene,7206365,7208190,.,+,.,ID=ChCC-v11008689m.g
+chromosome_07,JGI_gene,gene,28154,32333,.,-,.,ID=ChCC-v11014799m.g
+chromosome_12,JGI_gene,gene,1320474,1324176,.,+,.,ID=ChCC-v11024824m.g
+chromosome_12,JGI_gene,gene,5236777,5237595,.,-,.,ID=ChCC-v11026447m.g
+chromosome_13,JGI_gene,gene,3479759,3486916,.,+,.,ID=ChCC-v11029312m.g
+chromosome_13,JGI_gene,gene,3688270,3697848,.,+,.,ID=ChCC-v11029366m.g
+chromosome_13,JGI_gene,gene,4870809,4874421,.,+,.,ID=ChCC-v11029745m.g
+chromosome_15,JGI_gene,gene,2062806,2066659,.,+,.,ID=ChCC-v11031821m.g
+chromosome_17,JGI_gene,gene,4536930,4541027,.,+,.,ID=ChCC-v11036625m.g
+chromosome_17,JGI_gene,gene,6550812,6561763,.,-,.,ID=ChCC-v11037118m.g

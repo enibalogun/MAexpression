@@ -1,0 +1,57 @@
+KEGG Pathway	Hits	Score	Phytozome v5 Transcript IDs
+Benzoate degradation via CoA ligation	2	0.005211	Cre02.g103100.t1.1, Cre09.g415850.t1.2
+Starch and sucrose metabolism	4	0.0060423	Cre12.g552200.t1.2, Cre12.g488000.t1.2, Cre08.g384750.t1.1, Cre03.g194700.t1.3
+Diterpenoid biosynthesis	1	0.0085317	Cre10.g466700.t1.3
+Limonene and pinene degradation	2	0.01602	Cre02.g103100.t1.1, Cre09.g415850.t1.2
+Biosynthesis of siderophore group nonribosomal peptides	1	0.016992	Cre10.g448500.t1.3
+1- and 2-Methylnaphthalene degradation	2	0.020252	Cre02.g103100.t1.1, Cre09.g415850.t1.2
+Biosynthesis of unsaturated fatty acids	2	0.023304	Cre17.g711150.t1.2, Cre03.g172000.t1.2
+Galactose metabolism	2	0.023304	Cre12.g488000.t1.2, Cre03.g194700.t1.3
+Cell adhesion molecules (CAMs)	1	0.033704	Cre01.g005050.t1.1
+Ethylbenzene degradation	1	0.041955	Cre09.g415850.t1.2
+Insulin signaling pathway	2	0.11097	Cre12.g552200.t1.2, Cre01.g051250.t1.2
+Circadian rhythm - plant	1	0.12831	Cre01.g040150.t1.2
+Olfactory transduction	1	0.1578	Cre01.g051250.t1.2
+Pantothenate and CoA biosynthesis	1	0.16501	Cre13.g572500.t1.2
+Bisphenol A degradation	1	0.17927	Cre02.g103100.t1.1
+Fatty acid biosynthesis	1	0.17927	Cre03.g172000.t1.2
+SNARE interactions in vesicular transport	1	0.17927	Cre04.g224750.t1.2
+Phenylalanine metabolism	1	0.18631	Cre09.g415850.t1.2
+Valine, leucine and isoleucine biosynthesis	1	0.21388	Cre02.g073200.t1.2
+N-Glycan biosynthesis	1	0.24707	Cre09.g414250.t1.3
+Glioma	1	0.25354	Cre01.g051250.t1.2
+Nitrogen metabolism	1	0.25996	Cre09.g410950.t1.2
+Pentose phosphate pathway	1	0.26632	Cre12.g526800.t1.2
+Phosphatidylinositol signaling system	1	0.26632	Cre01.g051250.t1.2
+Melanogenesis	1	0.27263	Cre01.g051250.t1.2
+Alanine, aspartate and glutamate metabolism	1	0.27889	Cre10.g451950.t1.2
+GnRH signaling pathway	1	0.27889	Cre01.g051250.t1.2
+Glycerolipid metabolism	1	0.28509	Cre02.g143000.t1.2
+gamma-Hexachlorocyclohexane degradation	1	0.3034	Cre02.g103100.t1.1
+Ribosome	2	0.3209	Cre06.g273600.t1.2, Cre10.g420750.t1.2
+Glycerophospholipid metabolism	1	0.33865	Cre02.g143000.t1.2
+Glycine, serine and threonine metabolism	1	0.33865	Cre02.g073200.t1.2
+Naphthalene and anthracene degradation	1	0.34435	Cre02.g103100.t1.1
+DNA replication	1	0.35001	Cre07.g312350.t1.3
+Long-term potentiation	1	0.36118	Cre01.g051250.t1.2
+Glutathione metabolism	1	0.36669	Cre12.g526800.t1.2
+Carbon fixation in photosynthetic organisms	1	0.37758	Cre10.g451950.t1.2
+Plant-pathogen interaction	1	0.40402	Cre01.g051250.t1.2
+Calcium signaling pathway	1	0.40917	Cre01.g051250.t1.2
+Oocyte meiosis	2	0.41704	Cre10.g451400.t1.3, Cre01.g051250.t1.2
+Neurotrophin signaling pathway	1	0.42438	Cre01.g051250.t1.2
+Spliceosome	2	0.44087	Cre14.g621000.t1.2, Cre12.g522400.t1.3
+Tyrosine metabolism	1	0.45838	Cre09.g415850.t1.2
+Arginine and proline metabolism	1	0.5371	Cre02.g084450.t1.2
+Oxidative phosphorylation	1	0.56077	Cre03.g164600.t1.2
+Alzheimer's disease	1	0.57959	Cre01.g051250.t1.2
+Vascular smooth muscle contraction	1	0.59051	Cre01.g051250.t1.2
+Pyrimidine metabolism	1	0.59763	Cre07.g312350.t1.3
+Wnt signaling pathway	1	0.59763	Cre10.g451400.t1.3
+Meiosis - yeast	1	0.60809	Cre10.g451400.t1.3
+Biosynthesis of phenylpropanoids	1	0.61828	Cre10.g448500.t1.3
+Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid	1	0.62162	Cre10.g451950.t1.2
+Biosynthesis of alkaloids derived from histidine and purine	1	0.6379	Cre12.g526800.t1.2
+Huntington's disease	1	0.67709	Cre16.g685450.t1.3
+Biosynthesis of plant hormones	1	0.75023	Cre12.g526800.t1.2
+Purine metabolism	1	0.91135	Cre07.g312350.t1.3

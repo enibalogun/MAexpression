@@ -1,0 +1,30 @@
+Reactome Pathway	Hits	Score	Phytozome v5 Transcript IDs
+mRNA Processing	10	2.7291e-05	Cre07.g349100.t1.3, Cre16.g662800.t1.2, Cre06.g250950.t1.2, Cre06.g307450.t1.2, Cre03.g169500.t1.2, Cre12.g513701.t1.2, Cre12.g526750.t1.2, Cre07.g330300.t1.2, Cre06.g274500.t1.2, Cre03.g188550.t1.2
+Gene Expression	12	0.0049106	Cre07.g349100.t1.3, Cre16.g662800.t1.2, Cre06.g250950.t1.2, Cre06.g307450.t1.2, Cre03.g169500.t1.2, Cre12.g513701.t1.2, Cre12.g515650.t1.2, Cre12.g526750.t1.2, Cre07.g330300.t1.2, Cre06.g274500.t1.2, Cre03.g188550.t1.2, Cre07.g344050.t1.1
+Post-Elongation Processing of the Transcript	3	0.017146	Cre07.g349100.t1.3, Cre06.g250950.t1.2, Cre06.g274500.t1.2
+Influenza Infection	1	0.073061	Cre06.g274500.t1.2
+Hormone biosynthesis	2	0.10566	Cre12.g512300.t1.2, Cre01.g029250.t1.2
+Signaling in Immune system	4	0.14759	Cre02.g110850.t1.2, Cre12.g517600.t1.2, Cre06.g302700.t1.3, Cre06.g268950.t1.2
+Amino acid and oligopeptide SLC transporters	1	0.1539	Cre09.g396950.t1.3
+Transcription	3	0.155	Cre03.g169500.t1.2, Cre06.g274500.t1.2, Cre07.g344050.t1.1
+Regulatory RNA pathways	1	0.22786	Cre02.g141050.t1.3
+Metabolism of lipids and lipoproteins	4	0.39368	Cre03.g158550.t1.2, Cre12.g512300.t1.2, Cre14.g615050.t1.2, Cre12.g557750.t1.3
+HIV Infection	1	0.43172	Cre03.g169500.t1.2
+Apoptosis	2	0.45875	Cre12.g541300.t1.2, Cre15.g641250.t1.2
+Metabolism of carbohydrates	2	0.51835	Cre06.g289850.t1.3, Cre04.g217950.t1.2
+Metabolism of RNA	1	0.52041	Cre04.g227350.t1.3
+Cell Cycle Checkpoints	2	0.63643	Cre12.g541300.t1.2, Cre12.g504250.t1.3
+Synaptic Transmission	1	0.63731	Cre10.g418900.t1.2
+Metabolism of nucleotides	1	0.65924	Cre01.g029750.t1.3
+Axon guidance	2	0.73151	Cre02.g103900.t1.3, Cre06.g268950.t1.2
+Transmembrane transport of small molecules	1	0.73889	Cre09.g396950.t1.3
+Membrane Trafficking	1	0.75093	Cre17.g715750.t1.2
+Diabetes pathways	2	0.77763	Cre07.g320150.t1.2, Cre10.g425750.t1.3
+3' -UTR-mediated translational regulation	1	0.79061	Cre12.g515650.t1.2
+Metabolism of amino acids and derivatives	1	0.82129	Cre01.g029250.t1.2
+DNA Repair	1	0.84758	Cre03.g169500.t1.2
+Signalling by NGF	2	0.84815	Cre03.g194100.t1.2, Cre12.g517600.t1.2
+Cell Cycle, Mitotic	3	0.87718	Cre12.g555950.t1.2, Cre03.g169500.t1.2, Cre12.g541300.t1.2
+Opioid Signalling	1	0.88202	Cre15.g641250.t1.2
+DNA Replication	1	0.92616	Cre12.g541300.t1.2
+Metabolism of proteins	1	0.97716	Cre12.g515650.t1.2

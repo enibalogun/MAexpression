@@ -1,0 +1,95 @@
+Panther Pathway	Hits	Score	Phytozome v5 Transcript IDs
+B cell activation	6	0.0055955	Cre17.g733300.t1.3, Cre12.g524450.t1.3, Cre03.g168150.t1.2, Cre01.g040150.t1.2, Cre11.g468450.t1.2, Cre01.g051250.t1.2
+EGF receptor signaling pathway	10	0.017592	Cre13.g607300.t1.2, Cre12.g559250.t1.2, Cre13.g567800.t1.2, Cre10.g464100.t1.2, Cre17.g733300.t1.3, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g168150.t1.2, Cre01.g040150.t1.2
+Vitamin D metabolism and pathway	6	0.029951	Cre01.g039350.t1.2, Cre13.g562550.t1.3, Cre16.g683550.t1.2, Cre07.g340850.t1.2, Cre10.g426750.t1.2, Cre10.g426600.t1.2
+Inflammation mediated by chemokine and cytokine signaling pathway	14	0.036305	Cre01.g029850.t1.2, Cre17.g733300.t1.3, Cre17.g705000.t1.2, Cre03.g199000.t1.2, Cre12.g551250.t1.2, Cre10.g418900.t1.2, Cre10.g432250.t1.3, Cre16.g648100.t1.3, Cre03.g168150.t1.2, Cre06.g249300.t1.2, Cre12.g498650.t1.2, Cre01.g040150.t1.2, Cre17.g735550.t1.3, Cre12.g512300.t1.2
+TCA cycle	3	0.066912	Cre04.g214500.t1.3, Cre03.g149100.t1.2, Cre02.g145800.t1.2
+Muscarinic acetylcholine receptor 2 and 4 signaling pathway	4	0.09266	Cre03.g199000.t1.2, Cre02.g105900.t1.2, Cre12.g498650.t1.2, Cre01.g039500.t1.2
+Peptidoglycan biosynthesis	1	0.098479	Cre12.g519900.t1.2
+Parkinson disease	12	0.10666	Cre02.g080600.t1.2, Cre08.g372100.t1.2, Cre06.g250100.t1.2, Cre13.g607300.t1.2, Cre12.g559250.t1.2, Cre10.g424400.t1.2, Cre12.g516500.t1.1, Cre10.g439900.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre01.g014500.t1.3, Cre03.g194250.t1.2
+Asparagine and aspartate biosynthesis	2	0.11092	Cre01.g004300.t1.2, Cre06.g257950.t1.2
+Cytoskeletal regulation by Rho GTPase	5	0.13346	Cre01.g029850.t1.2, Cre03.g172650.t1.2, Cre16.g648100.t1.3, Cre06.g249300.t1.2, Cre17.g735550.t1.3
+Pyruvate metabolism	4	0.14446	Cre06.g258700.t1.3, Cre05.g234700.t1.3, Cre01.g022500.t1.2, Cre06.g280950.t1.2
+Isoleucine biosynthesis	2	0.14557	Cre02.g073200.t1.2, Cre02.g081400.t1.2
+Muscarinic acetylcholine receptor 1 and 3 signaling pathway	2	0.14557	Cre02.g105900.t1.2, Cre01.g039500.t1.2
+Vasopressin synthesis	2	0.14557	Cre17.g697650.t1.2, Cre09.g406800.t1.3
+FGF signaling pathway	7	0.15916	Cre12.g559250.t1.2, Cre13.g567800.t1.2, Cre17.g733300.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g168150.t1.2, Cre01.g040150.t1.2
+Acetate utilization	2	0.18205	Cre07.g353450.t1.2, Cre09.g396700.t1.2
+Glutamine glutamate conversion	2	0.18205	Cre09.g388800.t1.2, Cre03.g207250.t1.2
+Tryptophan biosynthesis	2	0.18205	Cre13.g602350.t1.2, Cre12.g519000.t1.3
+Alanine biosynthesis	1	0.18732	Cre02.g081400.t1.2
+Pantothenate biosynthesis	1	0.18732	Cre02.g090150.t1.2
+Pyridoxal-5-phosphate biosynthesis	1	0.18732	Cre08.g378200.t1.2
+Interferon-gamma signaling pathway	3	0.20347	Cre13.g607300.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+T cell activation	4	0.20507	Cre12.g524450.t1.3, Cre03.g168150.t1.2, Cre11.g468450.t1.2, Cre01.g051250.t1.2
+Thyrotropin-releasing hormone receptor signaling pathway	2	0.21967	Cre06.g270200.t1.3, Cre01.g039500.t1.2
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	4	0.22675	Cre12.g552200.t1.2, Cre13.g592000.t1.2, Cre11.g468450.t1.2, Cre01.g051250.t1.2
+Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	3	0.23041	Cre01.g039500.t1.2, Cre11.g468450.t1.2, Cre01.g051250.t1.2
+Apoptosis signaling pathway	5	0.23789	Cre02.g080600.t1.2, Cre08.g372100.t1.2, Cre10.g439900.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Glycolysis	2	0.25785	Cre07.g354250.t1.2, Cre03.g166950.t1.2
+Serine glycine biosynthesis	3	0.25796	Cre09.g411900.t1.2, Cre07.g324550.t1.3, Cre16.g689700.t1.3
+Allantoin degradation	1	0.26747	Cre13.g592050.t1.2
+Pyridoxal phosphate salvage pathway	1	0.26747	Cre08.g378200.t1.2
+Salvage pyrimidine deoxyribonucleotides	1	0.26747	Cre12.g509600.t1.3
+Interleukin signaling pathway	4	0.31799	Cre17.g733300.t1.3, Cre03.g168150.t1.2, Cre01.g040150.t1.2, Cre04.g228300.t1.3
+FAS signaling pathway	1	0.33977	Cre15.g638500.t1.2
+JAK/STAT signaling pathway	1	0.33977	Cre12.g524450.t1.3
+Lipoate_biosynthesis	1	0.33977	Cre16.g675250.t1.3
+Proline biosynthesis	1	0.33977	Cre17.g705700.t1.2
+Pyrimidine Metabolism	1	0.33977	Cre16.g675650.t1.2
+Vitamin B6 metabolism	1	0.33977	Cre08.g378200.t1.2
+Oxidative stress response	3	0.37061	Cre17.g733300.t1.3, Cre01.g040150.t1.2, Cre12.g554850.t1.2
+De novo pyrimidine deoxyribonucleotide biosynthesis	2	0.37152	Cre03.g190800.t1.1, Cre12.g509600.t1.3
+Huntington disease	13	0.38797	Cre11.g476050.t1.2, Cre16.g685450.t1.3, Cre02.g107350.t1.3, Cre12.g506000.t1.2, Cre12.g485150.t1.2, Cre06.g297850.t1.3, Cre03.g180800.t1.1, Cre15.g638500.t1.2, Cre03.g172650.t1.2, Cre12.g534650.t1.3, Cre16.g648100.t1.3, Cre06.g249300.t1.2, Cre10.g448850.t1.2
+p53 pathway by glucose deprivation	4	0.38838	Cre13.g570250.t1.3, Cre17.g705350.t1.3, Cre02.g075900.t1.1, Cre03.g169100.t1.3
+5-Hydroxytryptamine degredation	1	0.40498	Cre12.g500150.t1.1
+5HT4 type receptor mediated signaling pathway	1	0.40498	Cre01.g039500.t1.2
+Beta3 adrenergic receptor signaling pathway	1	0.40498	Cre01.g039500.t1.2
+Chorismate biosynthesis	1	0.40498	Cre10.g436350.t1.3
+Coenzyme A biosynthesis	1	0.40498	Cre13.g572500.t1.2
+Cortocotropin releasing factor receptor signaling pathway	1	0.40498	Cre01.g039500.t1.2
+Pentose phosphate pathway	1	0.40498	Cre12.g526800.t1.2
+Phenylethylamine degradation	1	0.40498	Cre01.g000650.t1.3
+Sulfate assimilation	1	0.40498	Cre03.g180300.t1.2
+Valine biosynthesis	1	0.40498	Cre02.g081400.t1.2
+Alzheimer disease-amyloid secretase pathway	4	0.43492	Cre13.g607300.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre16.g656200.t1.2
+5HT2 type receptor mediated signaling pathway	2	0.44355	Cre06.g270200.t1.3, Cre01.g039500.t1.2
+Oxytocin receptor mediated signaling pathway	2	0.44355	Cre06.g270200.t1.3, Cre01.g039500.t1.2
+Histamine H1 receptor mediated signaling pathway	1	0.46379	Cre01.g039500.t1.2
+Ubiquitin proteasome pathway	8	0.49399	Cre09.g386400.t1.2, Cre06.g269950.t1.2, Cre17.g720050.t1.2, Cre01.g019850.t1.3, Cre16.g654500.t1.1, Cre10.g446250.t1.3, Cre17.g716450.t1.3, Cre13.g570300.t1.2
+PI3 kinase pathway	2	0.51084	Cre01.g039500.t1.2, Cre03.g169100.t1.3
+Salvage pyrimidine ribonucleotides	1	0.51682	Cre12.g509600.t1.3
+Integrin signalling pathway	5	0.53867	Cre17.g733300.t1.3, Cre16.g648100.t1.3, Cre03.g168150.t1.2, Cre06.g249300.t1.2, Cre01.g040150.t1.2
+Nicotinic acetylcholine receptor signaling pathway	2	0.54245	Cre02.g105900.t1.2, Cre06.g249300.t1.2
+Endothelin signaling pathway	10	0.55927	Cre09.g406800.t1.3, Cre02.g085100.t1.2, Cre01.g021700.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre07.g321000.t1.3, Cre10.g431250.t1.3, Cre03.g200800.t1.3, Cre03.g168150.t1.2, Cre12.g518350.t1.3
+Adenine and hypoxanthine salvage pathway	1	0.56465	Cre03.g161000.t1.3
+Tetrahydrofolate biosynthesis	1	0.56465	Cre03.g176800.t1.3
+VEGF signaling pathway	2	0.57263	Cre03.g168150.t1.2, Cre12.g530550.t1.3
+mRNA splicing	1	0.60777	Cre01.g020400.t1.2
+Axon guidance mediated by semaphorins	1	0.64665	Cre01.g014500.t1.3
+Formyltetrahydroformate biosynthesis	1	0.64665	Cre03.g176800.t1.3
+Leucine biosynthesis	1	0.64665	Cre02.g081400.t1.2
+5HT1 type receptor mediated signaling pathway	1	0.6817	Cre01.g039500.t1.2
+Histamine H2 receptor mediated signaling pathway	1	0.6817	Cre01.g039500.t1.2
+Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	6	0.70485	Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g168150.t1.2, Cre16.g666300.t1.3, Cre04.g228300.t1.3, Cre03.g169100.t1.3
+Hypoxia response via HIF activation	1	0.7133	Cre10.g446100.t1.2
+Cadherin signaling pathway	2	0.72332	Cre01.g014500.t1.3, Cre06.g249300.t1.2
+PDGF signaling pathway	4	0.72867	Cre13.g607300.t1.2, Cre03.g168150.t1.2, Cre04.g228300.t1.3, Cre03.g169100.t1.3
+Cell cycle	1	0.74178	Cre16.g654500.t1.1
+Metabotropic glutamate receptor group II pathway	1	0.74178	Cre01.g039500.t1.2
+DNA replication	4	0.74355	Cre06.g280050.t1.2, Cre07.g312350.t1.3, Cre06.g293000.t1.3, Cre03.g197050.t1.2
+TGF-beta signaling pathway	2	0.78035	Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Alzheimer disease-presenilin pathway	1	0.79059	Cre06.g249300.t1.2
+Metabotropic glutamate receptor group III pathway	1	0.81144	Cre01.g039500.t1.2
+Ras Pathway	2	0.82689	Cre03.g168150.t1.2, Cre04.g228300.t1.3
+Angiogenesis	2	0.84033	Cre03.g168150.t1.2, Cre12.g530550.t1.3
+Ionotropic glutamate receptor pathway	2	0.84033	Cre17.g705000.t1.2, Cre10.g418900.t1.2
+Beta1 adrenergic receptor signaling pathway	1	0.8624	Cre01.g039500.t1.2
+Beta2 adrenergic receptor signaling pathway	1	0.8624	Cre01.g039500.t1.2
+Heme biosynthesis	1	0.89967	Cre02.g076300.t1.3
+Notch signaling pathway	1	0.89967	Cre08.g367650.t1.2
+Wnt signaling pathway	6	0.90214	Cre13.g567800.t1.2, Cre03.g158550.t1.2, Cre03.g177550.t1.2, Cre06.g287950.t1.3, Cre10.g446700.t1.2, Cre07.g344050.t1.1
+p53 pathway feedback loops 2	2	0.91817	Cre16.g661100.t1.2, Cre12.g494500.t1.2
+p53 pathway	5	0.94397	Cre16.g661100.t1.2, Cre13.g575650.t1.3, Cre12.g494500.t1.2, Cre17.g723300.t1.3, Cre17.g709750.t1.3
+De novo purine biosynthesis	1	0.95212	Cre16.g654300.t1.2
+Hedgehog signaling pathway	1	0.96868	Cre06.g268150.t1.3

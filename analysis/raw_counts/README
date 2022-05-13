@@ -1,0 +1,13 @@
+#### NOISEQ data ####
+#####################
+
+- After pre-filtering using the wilcoxon median test, approximately 89% of reads were remaining overall
+- Before filtering: 
+       CC2344: 16,898 reads
+       CC2931: 16,898 reads
+       GB: 16,898 reads
+       
+- After filtering:
+        CC2344: 15,263 reads (90% left)
+        CC2931: 14,874 reads (88% left)
+        GB: 13,723 reads  (81% left)

@@ -1,0 +1,21 @@
+Reactome Pathway	Hits	Score	Phytozome v5 Transcript IDs
+Metabolism of vitamins and cofactors	3	0.0070698	Cre09.g410950.t1.2, Cre13.g572500.t1.2, Cre10.g426750.t1.2
+Hormone biosynthesis	2	0.035311	Cre02.g103100.t1.1, Cre10.g426750.t1.2
+Transcription	3	0.035425	Cre02.g075600.t1.3, Cre07.g321650.t1.2, Cre12.g522400.t1.3
+Metabolism of carbohydrates	3	0.062254	Cre12.g552200.t1.2, Cre12.g526800.t1.2, Cre03.g194700.t1.3
+Metabolism of lipids and lipoproteins	3	0.24297	Cre03.g172000.t1.2, Cre02.g103100.t1.1, Cre10.g426750.t1.2
+Biological oxidations	1	0.4111	Cre10.g426750.t1.2
+Membrane Trafficking	1	0.52701	Cre04.g224750.t1.2
+Regulation of beta-cell development	1	0.53497	Cre10.g420750.t1.2
+3' -UTR-mediated translational regulation	1	0.56922	Cre10.g420750.t1.2
+Gene Expression	3	0.58226	Cre10.g420750.t1.2, Cre01.g040150.t1.2, Cre07.g321650.t1.2
+Metabolism of proteins	2	0.58824	Cre09.g414250.t1.3, Cre10.g420750.t1.2
+Metabolism of amino acids and derivatives	1	0.60445	Cre10.g451950.t1.2
+Signaling by GPCR	1	0.60445	Cre12.g499300.t1.2
+Opioid Signalling	1	0.68371	Cre12.g499300.t1.2
+Chromosome Maintenance	1	0.68371	Cre07.g312350.t1.3
+Cell Cycle, Mitotic	2	0.75396	Cre16.g685450.t1.3, Cre07.g312350.t1.3
+DNA Replication	1	0.75426	Cre07.g312350.t1.3
+Axon guidance	1	0.75853	Cre12.g534650.t1.3
+Diabetes pathways	1	0.79024	Cre10.g420750.t1.2
+Signalling by NGF	1	0.84076	Cre12.g499300.t1.2

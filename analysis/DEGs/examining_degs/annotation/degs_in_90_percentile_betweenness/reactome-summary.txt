@@ -1,0 +1,18 @@
+Reactome Pathway	Hits	Score	Phytozome v5 Transcript IDs
+Synaptic Transmission	2	0.074492	Cre10.g418900.t1.2, Cre03.g207250.t1.2
+Gene Expression	5	0.091891	Cre12.g515650.t1.2, Cre07.g330300.t1.2, Cre03.g188550.t1.2, Cre07.g344050.t1.1, Cre08.g382500.t1.2
+Regulatory RNA pathways	1	0.11159	Cre02.g141050.t1.3
+Diabetes pathways	3	0.12917	Cre07.g320150.t1.2, Cre08.g382500.t1.2, Cre06.g260350.t1.2
+3' -UTR-mediated translational regulation	2	0.15248	Cre12.g515650.t1.2, Cre08.g382500.t1.2
+Metabolism of lipids and lipoproteins	3	0.17395	Cre17.g723650.t1.2, Cre03.g158550.t1.2, Cre12.g512300.t1.2
+Hormone biosynthesis	1	0.22786	Cre12.g512300.t1.2
+mRNA Processing	2	0.25709	Cre07.g330300.t1.2, Cre03.g188550.t1.2
+Metabolism of nucleotides	1	0.38896	Cre12.g554850.t1.2
+Transcription	1	0.47439	Cre07.g344050.t1.1
+Regulation of beta-cell development	1	0.47816	Cre08.g382500.t1.2
+Metabolism of proteins	2	0.49834	Cre12.g515650.t1.2, Cre08.g382500.t1.2
+Metabolism of amino acids and derivatives	1	0.54519	Cre03.g207250.t1.2
+Chromosome Maintenance	1	0.62387	Cre03.g172950.t1.2
+Cell Cycle Checkpoints	1	0.63477	Cre16.g661100.t1.2
+Cell Cycle, Mitotic	2	0.66798	Cre16.g661100.t1.2, Cre03.g169100.t1.3
+DNA Replication	1	0.69645	Cre16.g661100.t1.2

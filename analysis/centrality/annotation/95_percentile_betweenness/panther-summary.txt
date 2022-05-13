@@ -1,0 +1,21 @@
+Panther Pathway	Hits	Score	Phytozome v5 Transcript IDs
+mRNA splicing	2	0.0074384	Cre16.g662800.t1.2, Cre06.g250950.t1.2
+Axon guidance mediated by semaphorins	2	0.009213	Cre02.g110850.t1.2, Cre06.g268950.t1.2
+5-Hydroxytryptamine biosynthesis	1	0.030192	Cre01.g029250.t1.2
+Cadherin signaling pathway	2	0.053553	Cre02.g110850.t1.2, Cre06.g268950.t1.2
+FAS signaling pathway	1	0.059515	Cre06.g302700.t1.3
+Histidine biosynthesis	1	0.10192	Cre13.g576650.t1.2
+Toll receptor signaling pathway	1	0.1425	Cre12.g517600.t1.2
+Wnt signaling pathway	3	0.15607	Cre03.g158550.t1.2, Cre15.g641250.t1.2, Cre07.g344050.t1.1
+Integrin signalling pathway	2	0.16913	Cre02.g110850.t1.2, Cre06.g268950.t1.2
+Insulin/IGF pathway-protein kinase B signaling cascade	1	0.1939	Cre02.g103900.t1.3
+Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	2	0.28851	Cre03.g194100.t1.2, Cre02.g103900.t1.3
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	1	0.32055	Cre04.g217950.t1.2
+De novo purine biosynthesis	1	0.36172	Cre01.g029750.t1.3
+Parkinson disease	2	0.36312	Cre02.g110850.t1.2, Cre06.g268950.t1.2
+Inflammation mediated by chemokine and cytokine signaling pathway	2	0.38006	Cre10.g418900.t1.2, Cre12.g512300.t1.2
+p53 pathway	2	0.38567	Cre03.g169500.t1.2, Cre12.g504250.t1.3
+Ionotropic glutamate receptor pathway	1	0.39102	Cre10.g418900.t1.2
+p53 pathway feedback loops 2	1	0.46303	Cre03.g169500.t1.2
+Ubiquitin proteasome pathway	1	0.70295	Cre12.g541300.t1.2
+Huntington disease	1	0.85145	Cre12.g555950.t1.2

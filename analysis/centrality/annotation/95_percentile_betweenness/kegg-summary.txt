@@ -1,0 +1,78 @@
+KEGG Pathway	Hits	Score	Phytozome v5 Transcript IDs
+Photosynthesis	3	0.025333	Cre12.g486300.t1.2, Cre05.g243800.t1.2, Cre12.g560950.t1.2
+Apoptosis	2	0.030268	Cre15.g641250.t1.2, Cre12.g517600.t1.2
+Wnt signaling pathway	5	0.03424	Cre02.g110850.t1.2, Cre03.g158550.t1.2, Cre15.g641250.t1.2, Cre07.g349000.t1.3, Cre12.g504250.t1.3
+Leishmania infection	4	0.060525	Cre02.g110850.t1.2, Cre07.g349000.t1.3, Cre12.g517600.t1.2, Cre12.g504250.t1.3
+Starch and sucrose metabolism	4	0.06264	Cre06.g289850.t1.3, Cre16.g663850.t1.3, Cre12.g488050.t1.2, Cre06.g283400.t1.2
+NOD-like receptor signaling pathway	4	0.066988	Cre02.g110850.t1.2, Cre07.g349000.t1.3, Cre12.g504250.t1.3, Cre06.g302700.t1.3
+Toll-like receptor signaling pathway	4	0.066988	Cre02.g110850.t1.2, Cre07.g349000.t1.3, Cre12.g517600.t1.2, Cre12.g504250.t1.3
+Penicillin and cephalosporin biosynthesis	1	0.067401	Cre08.g358800.t1.2
+MAPK signaling pathway	6	0.093286	Cre02.g110850.t1.2, Cre15.g641250.t1.2, Cre03.g194100.t1.2, Cre07.g349000.t1.3, Cre06.g268950.t1.2, Cre12.g504250.t1.3
+T cell receptor signaling pathway	4	0.096241	Cre02.g110850.t1.2, Cre15.g641250.t1.2, Cre07.g349000.t1.3, Cre12.g504250.t1.3
+Inositol phosphate metabolism	2	0.11616	Cre09.g388750.t1.2, Cre12.g507300.t1.2
+Phosphatidylinositol signaling system	2	0.12766	Cre09.g388750.t1.2, Cre12.g507300.t1.2
+RIG-I-like receptor signaling pathway	3	0.13135	Cre02.g110850.t1.2, Cre07.g349000.t1.3, Cre12.g504250.t1.3
+Axon guidance	2	0.14538	Cre15.g641250.t1.2, Cre07.g341300.t1.2
+alpha-Linolenic acid metabolism	1	0.17473	Cre12.g512300.t1.2
+Thiamine metabolism	1	0.17473	Cre02.g146250.t1.2
+Spliceosome	5	0.18118	Cre07.g349100.t1.3, Cre16.g662800.t1.2, Cre06.g250950.t1.2, Cre06.g307450.t1.2, Cre12.g526750.t1.2
+Amyotrophic lateral sclerosis (ALS)	1	0.20309	Cre15.g641250.t1.2
+Adherens junction	3	0.23956	Cre02.g110850.t1.2, Cre07.g349000.t1.3, Cre12.g504250.t1.3
+beta-Alanine metabolism	1	0.24384	Cre02.g145200.t1.3
+Carotenoid biosynthesis	1	0.26985	Cre12.g509650.t1.2
+Plant-pathogen interaction	2	0.2781	Cre10.g418900.t1.2, Cre04.g217950.t1.2
+Porphyrin and chlorophyll metabolism	2	0.29101	Cre06.g294750.t1.2, Cre12.g498550.t1.3
+Cell cycle - Caulobacter	1	0.29498	Cre16.g663350.t1.2
+Olfactory transduction	1	0.29498	Cre17.g706900.t1.2
+Regulation of autophagy	1	0.29498	Cre12.g507300.t1.2
+RNA degradation	3	0.30561	Cre04.g227350.t1.3, Cre12.g513701.t1.2, Cre02.g094900.t1.3
+Photosynthesis - antenna proteins	1	0.30723	Cre03.g156900.t1.2
+Phenylalanine, tyrosine and tryptophan biosynthesis	1	0.31926	Cre01.g029250.t1.2
+Small cell lung cancer	1	0.33109	Cre03.g169500.t1.2
+SNARE interactions in vesicular transport	1	0.33109	Cre02.g098950.t1.2
+Phenylalanine metabolism	1	0.34271	Cre01.g029250.t1.2
+Nicotinate and nicotinamide metabolism	1	0.35413	Cre10.g436500.t1.2
+Basal transcription factors	1	0.36536	Cre13.g583500.t1.3
+Dorso-ventral axis formation	1	0.3764	Cre02.g141050.t1.3
+Epithelial cell signaling in Helicobacter pylori infection	1	0.3764	Cre06.g302700.t1.3
+B cell receptor signaling pathway	1	0.38725	Cre15.g641250.t1.2
+Biosynthesis of unsaturated fatty acids	1	0.38725	Cre14.g615050.t1.2
+Galactose metabolism	1	0.38725	Cre12.g488050.t1.2
+VEGF signaling pathway	1	0.39791	Cre15.g641250.t1.2
+Linoleic acid metabolism	1	0.40838	Cre12.g512300.t1.2
+Natural killer cell mediated cytotoxicity	1	0.40838	Cre15.g641250.t1.2
+Ribosome	3	0.41497	Cre06.g264350.t1.2, Cre01.g052100.t1.2, Cre02.g108850.t1.2
+Propanoate metabolism	1	0.4288	Cre02.g145200.t1.3
+Renal cell carcinoma	1	0.4288	Cre03.g177450.t1.3
+Arginine and proline metabolism	2	0.45832	Cre16.g694850.t1.2, Cre04.g229350.t1.2
+Pentose phosphate pathway	1	0.46757	Cre09.g394550.t1.2
+Base excision repair	1	0.48597	Cre08.g377850.t1.2
+Tight junction	1	0.48597	Cre03.g194100.t1.2
+p53 signaling pathway	1	0.5124	Cre03.g169500.t1.2
+Purine metabolism	5	0.51762	Cre01.g029750.t1.3, Cre10.g436500.t1.2, Cre12.g541300.t1.2, Cre03.g188550.t1.2, Cre09.g394550.t1.2
+Proteasome	1	0.52091	Cre16.g665000.t1.2
+Biosynthesis of plant hormones	3	0.52307	Cre12.g509650.t1.2, Cre12.g512300.t1.2, Cre09.g394550.t1.2
+Glycine, serine and threonine metabolism	1	0.56896	Cre16.g658450.t1.2
+Prostate cancer	1	0.5765	Cre03.g169500.t1.2
+Pathways in cancer	2	0.5771	Cre03.g169500.t1.2, Cre03.g177450.t1.3
+Amino sugar and nucleotide sugar metabolism	1	0.59117	Cre16.g696000.t1.2
+Long-term potentiation	1	0.59832	Cre15.g641250.t1.2
+Histidine metabolism	1	0.60535	Cre13.g576650.t1.2
+Biosynthesis of alkaloids derived from histidine and purine	2	0.6061	Cre10.g436500.t1.2, Cre09.g394550.t1.2
+Aminoacyl-tRNA biosynthesis	1	0.62571	Cre02.g073550.t1.2
+Calcium signaling pathway	1	0.65736	Cre15.g641250.t1.2
+Nucleotide excision repair	1	0.66927	Cre02.g089608.t1.2
+Neurotrophin signaling pathway	1	0.67507	Cre12.g517600.t1.2
+Lysosome	1	0.69187	Cre09.g396950.t1.3
+Peroxisome	1	0.71295	Cre02.g145200.t1.3
+Endocytosis	1	0.72295	Cre08.g362550.t1.2
+Oocyte meiosis	2	0.7889	Cre15.g641250.t1.2, Cre03.g169500.t1.2
+Progesterone-mediated oocyte maturation	1	0.82551	Cre03.g169500.t1.2
+Alzheimer's disease	1	0.8286	Cre15.g641250.t1.2
+Pyrimidine metabolism	1	0.84324	Cre10.g436500.t1.2
+Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid	1	0.86167	Cre16.g694850.t1.2
+Cell cycle	1	0.8689	Cre03.g169500.t1.2
+Biosynthesis of terpenoids and steroids	1	0.87576	Cre12.g509650.t1.2
+Ubiquitin mediated proteolysis	1	0.88436	Cre03.g177450.t1.3
+Huntington's disease	1	0.89983	Cre12.g555950.t1.2
+Systemic lupus erythematosus	1	0.90844	Cre02.g106250.t1.2

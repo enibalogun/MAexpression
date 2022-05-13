@@ -1,0 +1,44 @@
+Reactome Pathway	Hits	Score	Phytozome v5 Transcript IDs
+mRNA Processing	12	0.0012237	Cre07.g349100.t1.3, Cre16.g662800.t1.2, Cre06.g250950.t1.2, Cre06.g307450.t1.2, Cre03.g169500.t1.2, Cre12.g513701.t1.2, Cre12.g526750.t1.2, Cre16.g665400.t1.2, Cre07.g330300.t1.2, Cre06.g274500.t1.2, Cre03.g188550.t1.2, Cre10.g462250.t1.2
+Post-Elongation Processing of the Transcript	4	0.026829	Cre07.g349100.t1.3, Cre06.g250950.t1.2, Cre06.g274500.t1.2, Cre10.g462250.t1.2
+Gene Expression	17	0.051042	Cre07.g313700.t1.3, Cre07.g349100.t1.3, Cre16.g662800.t1.2, Cre06.g250950.t1.2, Cre06.g307450.t1.2, Cre03.g189650.t1.3, Cre03.g169500.t1.2, Cre12.g513701.t1.2, Cre12.g515650.t1.2, Cre12.g526750.t1.2, Cre16.g665400.t1.2, Cre07.g330300.t1.2, Cre06.g274500.t1.2, Cre03.g188550.t1.2, Cre07.g344050.t1.1, Cre08.g382500.t1.2, Cre10.g462250.t1.2
+Signaling in Immune system	8	0.061603	Cre08.g385050.t1.3, Cre02.g110850.t1.2, Cre06.g290500.t1.3, Cre01.g024650.t1.3, Cre12.g517600.t1.2, Cre12.g543450.t1.2, Cre06.g302700.t1.3, Cre06.g268950.t1.2
+Cell Cycle Checkpoints	8	0.070595	Cre08.g373250.t1.2, Cre01.g030850.t1.2, Cre16.g661100.t1.2, Cre14.g610950.t1.2, Cre17.g708300.t1.2, Cre12.g541300.t1.2, Cre08.g370850.t1.3, Cre12.g504250.t1.3
+Amine compound SLC transporters	1	0.11956	Cre06.g284100.t1.2
+Influenza Infection	1	0.14718	Cre06.g274500.t1.2
+Transcription	5	0.15358	Cre03.g169500.t1.2, Cre06.g274500.t1.2, Cre02.g102400.t1.2, Cre07.g344050.t1.1, Cre10.g462250.t1.2
+Cell Cycle, Mitotic	13	0.19039	Cre12.g555950.t1.2, Cre08.g373250.t1.2, Cre01.g030850.t1.2, Cre16.g669800.t1.2, Cre16.g661100.t1.2, Cre14.g610950.t1.2, Cre03.g169500.t1.2, Cre17.g708300.t1.2, Cre12.g541300.t1.2, Cre03.g169100.t1.3, Cre07.g339100.t1.3, Cre08.g370850.t1.3, Cre03.g154250.t1.3
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	4	0.23302	Cre08.g373250.t1.2, Cre01.g030850.t1.2, Cre14.g610950.t1.2, Cre08.g370850.t1.3
+Pyruvate metabolism and Citric Acid (TCA) cycle	2	0.26489	Cre12.g483950.t1.2, Cre03.g158900.t1.2
+Metabolism of carbohydrates	5	0.28428	Cre06.g289850.t1.3, Cre12.g483950.t1.2, Cre17.g725550.t1.2, Cre16.g669800.t1.2, Cre04.g217950.t1.2
+Amino acid and oligopeptide SLC transporters	1	0.29579	Cre09.g396950.t1.3
+Membrane Trafficking	4	0.31052	Cre17.g715750.t1.2, Cre10.g459800.t1.2, Cre17.g737050.t1.2, Cre02.g077700.t1.3
+Hormone biosynthesis	2	0.32361	Cre12.g512300.t1.2, Cre01.g029250.t1.2
+HIV Infection	2	0.32361	Cre03.g169500.t1.2, Cre12.g543450.t1.2
+Metabolism of porphyrins	1	0.33941	Cre02.g091050.t1.2
+Metabolism of nucleotides	3	0.37655	Cre01.g029750.t1.3, Cre17.g704850.t1.2, Cre12.g554850.t1.2
+Apoptosis	4	0.39757	Cre17.g708300.t1.2, Cre12.g541300.t1.2, Cre01.g024650.t1.3, Cre15.g641250.t1.2
+Regulatory RNA pathways	1	0.41879	Cre02.g141050.t1.3
+DNA Replication	6	0.42027	Cre08.g373250.t1.2, Cre01.g030850.t1.2, Cre16.g661100.t1.2, Cre14.g610950.t1.2, Cre17.g708300.t1.2, Cre12.g541300.t1.2
+Signaling by FGFR	1	0.45487	Cre06.g290500.t1.3
+Metabolism of amino acids and derivatives	4	0.46202	Cre01.g029250.t1.2, Cre03.g207250.t1.2, Cre17.g705850.t1.2, Cre07.g344600.t1.2
+Metabolism of lipids and lipoproteins	7	0.49588	Cre17.g723650.t1.2, Cre03.g158550.t1.2, Cre16.g669800.t1.2, Cre12.g512300.t1.2, Cre03.g189650.t1.3, Cre14.g615050.t1.2, Cre12.g557750.t1.3
+Signaling by PDGF	1	0.61718	Cre08.g385050.t1.3
+Synaptic Transmission	2	0.61993	Cre10.g418900.t1.2, Cre03.g207250.t1.2
+APC-Cdc20 mediated degradation of Nek2A	1	0.65246	Cre07.g339100.t1.3
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	1	0.66349	Cre08.g378900.t1.2
+Diabetes pathways	5	0.69569	Cre16.g669800.t1.2, Cre07.g320150.t1.2, Cre10.g425750.t1.3, Cre08.g382500.t1.2, Cre06.g260350.t1.2
+Signaling by EGFR	1	0.74015	Cre08.g385050.t1.3
+Signaling by Insulin receptor	2	0.76037	Cre08.g385050.t1.3, Cre06.g290500.t1.3
+Transmembrane transport of small molecules	2	0.76607	Cre06.g284100.t1.2, Cre09.g396950.t1.3
+Axon guidance	4	0.78415	Cre08.g385050.t1.3, Cre02.g103900.t1.3, Cre06.g268950.t1.2, Cre10.g422900.t1.3
+Metabolism of RNA	1	0.78607	Cre04.g227350.t1.3
+Opioid Signalling	3	0.8141	Cre16.g669800.t1.2, Cre16.g664150.t1.3, Cre15.g641250.t1.2
+Signalling by NGF	5	0.81813	Cre08.g385050.t1.3, Cre16.g669800.t1.2, Cre16.g664150.t1.3, Cre03.g194100.t1.2, Cre12.g517600.t1.2
+3' -UTR-mediated translational regulation	2	0.83439	Cre12.g515650.t1.2, Cre08.g382500.t1.2
+Regulation of beta-cell development	1	0.94938	Cre08.g382500.t1.2
+Signaling by GPCR	1	0.97306	Cre16.g664150.t1.3
+Integration of energy metabolism	1	0.98071	Cre16.g669800.t1.2
+DNA Repair	1	0.98071	Cre03.g169500.t1.2
+Metabolism of proteins	3	0.98386	Cre12.g515650.t1.2, Cre08.g382500.t1.2, Cre16.g675500.t1.2
+Chromosome Maintenance	1	0.98873	Cre03.g172950.t1.2

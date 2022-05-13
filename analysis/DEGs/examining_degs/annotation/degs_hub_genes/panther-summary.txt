@@ -1,0 +1,17 @@
+Panther Pathway	Hits	Score	Phytozome v5 Transcript IDs
+B cell activation	2	0.008236	Cre01.g040150.t1.2, Cre01.g051250.t1.2
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	2	0.015664	Cre12.g552200.t1.2, Cre01.g051250.t1.2
+Vitamin D metabolism and pathway	2	0.015664	Cre13.g562550.t1.3, Cre10.g426750.t1.2
+Coenzyme A biosynthesis	1	0.039253	Cre13.g572500.t1.2
+Pentose phosphate pathway	1	0.039253	Cre12.g526800.t1.2
+Isoleucine biosynthesis	1	0.054558	Cre02.g073200.t1.2
+Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	1	0.12781	Cre01.g051250.t1.2
+Oxidative stress response	1	0.16247	Cre01.g040150.t1.2
+T cell activation	1	0.17598	Cre01.g051250.t1.2
+Interleukin signaling pathway	1	0.20888	Cre01.g040150.t1.2
+Huntington disease	2	0.24371	Cre16.g685450.t1.3, Cre12.g534650.t1.3
+FGF signaling pathway	1	0.31204	Cre01.g040150.t1.2
+EGF receptor signaling pathway	1	0.32892	Cre01.g040150.t1.2
+Integrin signalling pathway	1	0.32892	Cre01.g040150.t1.2
+DNA replication	1	0.33446	Cre07.g312350.t1.3
+Inflammation mediated by chemokine and cytokine signaling pathway	1	0.50832	Cre01.g040150.t1.2

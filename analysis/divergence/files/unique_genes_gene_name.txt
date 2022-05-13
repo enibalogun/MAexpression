@@ -1,0 +1,46 @@
+ENTREZ_GENE_ID	Name	Species
+5718356	transaldolase(TAL2)	Chlamydomonas reinhardtii
+5728210	40 kDa translocon at mitochondrial outer envelope membrane(TOM40)	Chlamydomonas reinhardtii
+5724382	hypothetical protein(CHLREDRAFT_185219)	Chlamydomonas reinhardtii
+5724957	hypothetical protein(CHLREDRAFT_132041)	Chlamydomonas reinhardtii
+5723548	receptor of activated protein kinase C 1(RACK1)	Chlamydomonas reinhardtii
+5728796	hypothetical protein(CHLREDRAFT_205593)	Chlamydomonas reinhardtii
+5723611	cryptochrome photoreceptor(UVR3)	Chlamydomonas reinhardtii
+5726042	flagellar associated protein(FAP115)	Chlamydomonas reinhardtii
+5722009	ubiquinol:cytochrome c oxidoreductase 14 kDa subunit(QCR7)	Chlamydomonas reinhardtii
+5722438	ribosomal protein L12, component of cytosolic 80S ribosome and 60S large subunit(RPL12)	Chlamydomonas reinhardtii
+5726468	ran-binding protein Mog1(MOG1)	Chlamydomonas reinhardtii
+5729217	ribosomal protein L22, component of cytosolic 80S ribosome and 60S large subunit(RPL22)	Chlamydomonas reinhardtii
+5716097	inactive subunit of chloroplast ClpP complex(CLPR3)	Chlamydomonas reinhardtii
+5719183	ribosomal protein S16, component of cytosolic 80S ribosome and 40S small subunit(RPS16)	Chlamydomonas reinhardtii
+5720270	early light-inducible protein(ELI2-2)	Chlamydomonas reinhardtii
+5728910	plastid terminal oxidase(PTOX2)	Chlamydomonas reinhardtii
+5715022	ribosomal protein L6, component of cytosolic 80S ribosome and 60S large subunit(RPL6)	Chlamydomonas reinhardtii
+5720589	rab GDP dissociation inhibitor protein(GDIC1)	Chlamydomonas reinhardtii
+5721805	ribosomal protein S8, component of cytosolic 80S ribosome and 40S small subunit(RPS8)	Chlamydomonas reinhardtii
+5720267	early light-inducible protein(ELI2-1)	Chlamydomonas reinhardtii
+5727882	ribosomal protein S7, component of cytosolic 80S ribosome and 40S small subunit(RPS7)	Chlamydomonas reinhardtii
+5720458	acidic ribosomal protein P2(RPP2)	Chlamydomonas reinhardtii
+5720328	oxygen-evolving enhancer protein 1 of photosystem II(PSBO)	Chlamydomonas reinhardtii
+5719944	Rab5-interacting domain protein(CHLREDRAFT_148562)	Chlamydomonas reinhardtii
+5726837	mitochondrial grpE-type co-chaperone of the HSP70 system(MGE1)	Chlamydomonas reinhardtii
+5716607	ribosomal protein L18, component of cytosolic 80S ribosome and 60S large subunit(RPL18)	Chlamydomonas reinhardtii
+5726205	ribosomal protein S15a, component of cytosolic 80S ribosome and 40S small subunit(RPS15a)	Chlamydomonas reinhardtii
+5715452	hypothetical protein(CHLREDRAFT_171854)	Chlamydomonas reinhardtii
+5720572	aspartate aminotransferase(AST1)	Chlamydomonas reinhardtii
+5721212	hypothetical protein(CHLREDRAFT_191969)	Chlamydomonas reinhardtii
+5723580	hypothetical protein(CHLREDRAFT_192992)	Chlamydomonas reinhardtii
+5721254	component of TRAPP complex(BET3)	Chlamydomonas reinhardtii
+5729059	small nuclear riboprotein, U6 sm-like protein(LSM7)	Chlamydomonas reinhardtii
+5725027	hypothetical protein(CHLREDRAFT_152590)	Chlamydomonas reinhardtii
+5720290	hypothetical protein(CHLREDRAFT_191416)	Chlamydomonas reinhardtii
+5720993	chloropyll a-b binding protein of LHCII type I, chloroplast precursor(LHCBM6)	Chlamydomonas reinhardtii
+5726191	hypothetical protein(CHLREDRAFT_205675)	Chlamydomonas reinhardtii
+5725358	ribosomal protein L10a, component of cytosolic 80S ribosome and 60S large subunit(RPL10a)	Chlamydomonas reinhardtii
+5723630	phosphoglucomutase(GPM1a|GPM1b)	Chlamydomonas reinhardtii
+5720558	hypothetical protein(CHLREDRAFT_148747)	Chlamydomonas reinhardtii
+5722926	ribosomal protein S14, component of cytosolic 80S ribosome and 40S small subunit(RPS14)	Chlamydomonas reinhardtii
+5718254	ribosomal protein L13, component of cytosolic 80S ribosome and 60S large subunit(RPL13)	Chlamydomonas reinhardtii
+5720364	ribosomal protein L4, component of cytosolic 80S ribosome and 60S large subunit(RPL4)	Chlamydomonas reinhardtii
+5720618	hypothetical protein(CHLREDRAFT_191344)	Chlamydomonas reinhardtii
+5729256	plastidic ADP/ATP translocase(AAA1)	Chlamydomonas reinhardtii

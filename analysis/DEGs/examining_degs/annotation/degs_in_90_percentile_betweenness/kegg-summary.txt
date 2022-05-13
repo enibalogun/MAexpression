@@ -1,0 +1,44 @@
+KEGG Pathway	Hits	Score	Phytozome v5 Transcript IDs
+Photosynthesis - antenna proteins	3	0.00053673	Cre10.g425900.t1.2, Cre08.g367500.t1.1, Cre03.g156900.t1.2
+Benzoate degradation via hydroxylation	1	0.023395	Cre17.g723650.t1.2
+PPAR signaling pathway	2	0.038832	Cre17.g723650.t1.2, Cre03.g169100.t1.3
+alpha-Linolenic acid metabolism	1	0.083212	Cre12.g512300.t1.2
+Circadian rhythm - plant	1	0.11877	Cre06.g275350.t1.3
+Olfactory transduction	1	0.14625	Cre17.g706900.t1.2
+Arginine and proline metabolism	2	0.15407	Cre01.g053300.t1.3, Cre03.g207250.t1.2
+Aldosterone-regulated sodium reabsorption	1	0.1729	Cre03.g169100.t1.3
+Basal transcription factors	1	0.18592	Cre13.g583500.t1.3
+Dorso-ventral axis formation	1	0.19236	Cre02.g141050.t1.3
+Biosynthesis of unsaturated fatty acids	1	0.19874	Cre17.g723650.t1.2
+Non-small cell lung cancer	1	0.19874	Cre03.g169100.t1.3
+Pathogenic Escherichia coli infection	1	0.19874	Cre06.g275100.t1.2
+Valine, leucine and isoleucine degradation	1	0.19874	Cre17.g723650.t1.2
+Meiosis - yeast	2	0.20784	Cre16.g661100.t1.2, Cre16.g676800.t1.2
+Linoleic acid metabolism	1	0.21136	Cre12.g512300.t1.2
+Endometrial cancer	1	0.2238	Cre03.g169100.t1.3
+Nitrogen metabolism	1	0.24208	Cre03.g207250.t1.2
+Pentose phosphate pathway	1	0.24809	Cre09.g394550.t1.2
+Photosynthesis	1	0.25404	Cre07.g330250.t1.2
+Alanine, aspartate and glutamate metabolism	1	0.25996	Cre03.g207250.t1.2
+Fatty acid metabolism	1	0.25996	Cre17.g723650.t1.2
+Two-component system	1	0.25996	Cre03.g207250.t1.2
+mTOR signaling pathway	1	0.26582	Cre03.g169100.t1.3
+Ribosome	2	0.28697	Cre14.g612450.t1.2, Cre08.g382500.t1.2
+Cysteine and methionine metabolism	1	0.29448	Cre10.g461750.t1.2
+Prostate cancer	1	0.32205	Cre03.g169100.t1.3
+Biosynthesis of plant hormones	2	0.35708	Cre12.g512300.t1.2, Cre09.g394550.t1.2
+Purine metabolism	3	0.36604	Cre03.g188550.t1.2, Cre16.g676800.t1.2, Cre09.g394550.t1.2
+Focal adhesion	1	0.36905	Cre03.g169100.t1.3
+Plant-pathogen interaction	1	0.37906	Cre10.g418900.t1.2
+Porphyrin and chlorophyll metabolism	1	0.38892	Cre12.g498550.t1.3
+Neurotrophin signaling pathway	1	0.39862	Cre08.g380600.t1.3
+Insulin signaling pathway	1	0.41289	Cre03.g169100.t1.3
+Peroxisome	1	0.43141	Cre17.g723650.t1.2
+Endocytosis	1	0.44046	Cre01.g024300.t1.2
+ABC transporters	1	0.49997	Cre07.g335400.t1.1
+Starch and sucrose metabolism	1	0.49997	Cre06.g283400.t1.2
+Wnt signaling pathway	1	0.56752	Cre03.g158550.t1.2
+RNA degradation	1	0.59132	Cre11.g475850.t1.2
+Biosynthesis of alkaloids derived from histidine and purine	1	0.60754	Cre09.g394550.t1.2
+Systemic lupus erythematosus	1	0.6609	Cre02.g106250.t1.2
+MAPK signaling pathway	1	0.76914	Cre08.g380600.t1.3

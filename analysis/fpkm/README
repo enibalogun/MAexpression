@@ -1,0 +1,15 @@
+##################
+##### NOISEQ #####
+##################
+
+Before filtering:
+    CC2931: 16,898 reads
+    CC2344: 16,898 reads
+    
+After filtering:
+    CC2931: 16,224 reads (96%)
+    CC2344: 16,233 reads (96%)
+    
+Overlap of expression between geneotypes
+HEG - 78%
+LEG - 66%

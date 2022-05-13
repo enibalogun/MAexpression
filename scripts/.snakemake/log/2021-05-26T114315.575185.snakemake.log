@@ -1,0 +1,18 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	allout
+	1
+Select jobs to execute...
+
+[Wed May 26 11:43:18 2021]
+localrule allout:
+    jobid: 0
+
+[Wed May 26 11:43:18 2021]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /research/projects/chlamydomonas/MAexpression/scripts/.snakemake/log/2021-05-26T114315.575185.snakemake.log

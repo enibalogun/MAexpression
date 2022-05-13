@@ -1,0 +1,214 @@
+KEGG Pathway	Hits	Score	Phytozome v5 Transcript IDs
+Ribosome	27	0.00066474	Cre12.g520500.t1.3, Cre14.g621450.t1.2, Cre06.g308250.t1.2, Cre13.g568650.t1.2, Cre12.g537800.t1.2, Cre12.g520400.t1.2, Cre12.g494050.t1.2, Cre09.g400650.t1.2, Cre02.g091100.t1.2, Cre14.g612450.t1.2, Cre02.g102250.t1.2, Cre13.g568900.t1.2, Cre06.g272950.t1.3, Cre12.g498250.t1.2, Cre08.g360900.t1.2, Cre02.g075700.t1.2, Cre06.g273600.t1.2, Cre10.g420750.t1.2, Cre06.g282500.t1.2, Cre10.g456200.t1.2, Cre01.g040000.t1.2, Cre06.g257150.t1.2, Cre08.g382500.t1.2, Cre16.g682300.t1.2, Cre14.g617900.t1.2, Cre10.g430400.t1.2, Cre01.g053600.t1.2
+Biosynthesis of phenylpropanoids	21	0.005146	Cre17.g703700.t1.1, Cre12.g485150.t1.2, Cre03.g149100.t1.2, Cre04.g214500.t1.3, Cre06.g280950.t1.2, Cre12.g527400.t1.3, Cre17.g726750.t1.2, Cre03.g194200.t1.2, Cre10.g436350.t1.3, Cre13.g602350.t1.2, Cre02.g145800.t1.2, Cre05.g234700.t1.3, Cre12.g519000.t1.3, Cre03.g166950.t1.2, Cre03.g207800.t1.2, Cre03.g207550.t1.2, Cre07.g354250.t1.2, Cre10.g448500.t1.3, Cre03.g176800.t1.3, Cre02.g086500.t1.2, Cre02.g116000.t1.3
+Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid	20	0.011903	Cre12.g527400.t1.3, Cre10.g451950.t1.2, Cre01.g022500.t1.2, Cre17.g703700.t1.1, Cre12.g528450.t1.2, Cre12.g485150.t1.2, Cre03.g149100.t1.2, Cre01.g000650.t1.3, Cre06.g280950.t1.2, Cre04.g214500.t1.3, Cre03.g194200.t1.2, Cre06.g251450.t1.3, Cre02.g145800.t1.2, Cre16.g682100.t1.2, Cre09.g388800.t1.2, Cre05.g234700.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre02.g105150.t1.3, Cre02.g086500.t1.2
+Peroxisome	14	0.014445	Cre09.g417150.t1.2, Cre03.g182050.t1.2, Cre03.g171300.t1.2, Cre17.g723650.t1.2, Cre04.g214500.t1.3, Cre02.g094250.t1.1, Cre06.g278800.t1.2, Cre13.g605150.t1.2, Cre02.g096150.t1.2, Cre10.g446250.t1.3, Cre06.g257601.t1.2, Cre06.g308100.t1.2, Cre07.g337050.t1.2, Cre06.g263600.t1.3
+Biosynthesis of alkaloids derived from shikimate pathway	18	0.01688	Cre04.g214500.t1.3, Cre06.g280950.t1.2, Cre12.g527400.t1.3, Cre01.g022500.t1.2, Cre17.g726750.t1.2, Cre17.g703700.t1.1, Cre12.g485150.t1.2, Cre03.g149100.t1.2, Cre03.g194200.t1.2, Cre10.g436350.t1.3, Cre13.g602350.t1.2, Cre02.g081400.t1.2, Cre02.g145800.t1.2, Cre05.g234700.t1.3, Cre12.g519000.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre02.g086500.t1.2
+Phenylpropanoid biosynthesis	3	0.018192	Cre03.g207800.t1.2, Cre03.g207550.t1.2, Cre07.g320850.t1.2
+Pyruvate metabolism	14	0.025338	Cre02.g141400.t1.2, Cre06.g280950.t1.2, Cre01.g022500.t1.2, Cre12.g500150.t1.1, Cre07.g353450.t1.2, Cre03.g171950.t1.3, Cre10.g424750.t1.2, Cre03.g194200.t1.2, Cre02.g145800.t1.2, Cre05.g234700.t1.3, Cre09.g396700.t1.2, Cre12.g484000.t1.2, Cre07.g324550.t1.3, Cre10.g432900.t1.2
+Carbon fixation in photosynthetic organisms	11	0.025818	Cre06.g280950.t1.2, Cre01.g022500.t1.2, Cre03.g171950.t1.3, Cre10.g424750.t1.2, Cre10.g451950.t1.2, Cre03.g185550.t1.2, Cre02.g141400.t1.2, Cre02.g145800.t1.2, Cre03.g187450.t1.2, Cre05.g234700.t1.3, Cre07.g354250.t1.2
+Taste transduction	3	0.029378	Cre03.g199000.t1.2, Cre10.g432550.t1.2, Cre07.g330400.t1.3
+Biosynthesis of plant hormones	24	0.042634	Cre06.g280950.t1.2, Cre04.g214500.t1.3, Cre12.g527400.t1.3, Cre17.g726750.t1.2, Cre16.g663950.t1.2, Cre12.g526800.t1.2, Cre17.g703700.t1.1, Cre12.g485150.t1.2, Cre03.g180750.t1.2, Cre03.g149100.t1.2, Cre03.g194200.t1.2, Cre10.g436350.t1.3, Cre16.g695050.t1.2, Cre13.g602350.t1.2, Cre02.g145800.t1.2, Cre03.g187450.t1.2, Cre05.g234700.t1.3, Cre12.g519000.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre12.g512300.t1.2, Cre03.g149650.t1.3, Cre09.g394550.t1.2, Cre02.g086500.t1.2
+Cell adhesion molecules (CAMs)	2	0.057478	Cre01.g005050.t1.1, Cre12.g512000.t1.1
+Adipocytokine signaling pathway	5	0.062284	Cre03.g182050.t1.2, Cre17.g705350.t1.3, Cre12.g484350.t1.3, Cre13.g570250.t1.3, Cre03.g206800.t1.3
+Photosynthesis - antenna proteins	5	0.062284	Cre10.g425900.t1.2, Cre12.g548400.t1.2, Cre08.g367500.t1.1, Cre03.g156900.t1.2, Cre10.g452050.t1.2
+Biosynthesis of unsaturated fatty acids	6	0.066992	Cre17.g723650.t1.2, Cre13.g590500.t1.1, Cre01.g038600.t1.2, Cre17.g711150.t1.2, Cre03.g172000.t1.2, Cre01.g028600.t1.2
+Nitrogen metabolism	7	0.06847	Cre01.g004300.t1.2, Cre09.g410950.t1.2, Cre03.g193750.t1.3, Cre06.g301650.t1.2, Cre09.g388800.t1.2, Cre13.g607350.t1.2, Cre03.g207250.t1.2
+Phenylalanine, tyrosine and tryptophan biosynthesis	5	0.073929	Cre17.g726750.t1.2, Cre10.g436350.t1.3, Cre13.g602350.t1.2, Cre12.g519000.t1.3, Cre05.g248250.t1.3
+Vitamin B6 metabolism	3	0.07939	Cre15.g643550.t1.2, Cre08.g378200.t1.2, Cre14.g631850.t1.2
+Insulin signaling pathway	11	0.088904	Cre12.g552200.t1.2, Cre13.g607300.t1.2, Cre12.g484350.t1.3, Cre09.g400650.t1.2, Cre01.g051250.t1.2, Cre13.g570250.t1.3, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g169100.t1.3
+Riboflavin metabolism	4	0.095599	Cre01.g002050.t1.2, Cre06.g259650.t1.2, Cre01.g026650.t1.2, Cre09.g396450.t1.3
+Biosynthesis of alkaloids derived from histidine and purine	17	0.10428	Cre17.g703700.t1.1, Cre12.g485150.t1.2, Cre03.g149100.t1.2, Cre06.g280950.t1.2, Cre04.g214500.t1.3, Cre12.g526800.t1.2, Cre12.g527400.t1.3, Cre01.g022500.t1.2, Cre03.g194200.t1.2, Cre02.g081400.t1.2, Cre02.g145800.t1.2, Cre03.g187450.t1.2, Cre05.g234700.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre09.g394550.t1.2, Cre02.g086500.t1.2
+Diterpenoid biosynthesis	1	0.1053	Cre10.g466700.t1.3
+Lipopolysaccharide biosynthesis	1	0.1053	Cre13.g583100.t1.3
+Primary bile acid biosynthesis	1	0.1053	Cre06.g308100.t1.2
+Trinitrotoluene degradation	1	0.1053	Cre17.g727300.t1.2
+Propanoate metabolism	6	0.11328	Cre07.g353450.t1.2, Cre17.g703700.t1.1, Cre16.g675650.t1.2, Cre12.g500150.t1.1, Cre09.g396700.t1.2, Cre12.g484000.t1.2
+Proximal tubule bicarbonate reclamation	2	0.12474	Cre02.g145800.t1.2, Cre09.g388800.t1.2
+Glycerophospholipid metabolism	8	0.12612	Cre12.g539000.t1.2, Cre02.g143000.t1.2, Cre03.g183650.t1.3, Cre12.g489050.t1.2, Cre02.g105900.t1.2, Cre13.g604700.t1.3, Cre10.g460350.t1.3, Cre17.g704150.t1.3
+Prostate cancer	8	0.13773	Cre12.g514850.t1.2, Cre13.g607300.t1.2, Cre13.g575650.t1.3, Cre06.g249150.t1.3, Cre12.g494500.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g169100.t1.3
+Prion diseases	6	0.14121	Cre02.g080600.t1.2, Cre13.g607300.t1.2, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Chemokine signaling pathway	7	0.14687	Cre13.g607300.t1.2, Cre01.g029850.t1.2, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre03.g204800.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Dorso-ventral axis formation	5	0.14786	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre02.g141050.t1.3
+Benzoate degradation via CoA ligation	3	0.14984	Cre12.g534350.t1.2, Cre02.g103100.t1.1, Cre09.g415850.t1.2
+Biosynthesis of alkaloids derived from terpenoid and polyketide	14	0.16287	Cre03.g149100.t1.2, Cre06.g280950.t1.2, Cre04.g214500.t1.3, Cre12.g527400.t1.3, Cre01.g022500.t1.2, Cre16.g663950.t1.2, Cre17.g703700.t1.1, Cre12.g485150.t1.2, Cre03.g194200.t1.2, Cre02.g145800.t1.2, Cre05.g234700.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre02.g086500.t1.2
+Non-small cell lung cancer	5	0.16544	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g169100.t1.3
+Pathogenic Escherichia coli infection	5	0.16544	Cre16.g648100.t1.3, Cre01.g029850.t1.2, Cre03.g172650.t1.2, Cre06.g275100.t1.2, Cre06.g249300.t1.2
+Bladder cancer	6	0.17197	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre13.g573550.t1.3, Cre02.g112800.t1.3
+Citrate cycle (TCA cycle)	6	0.17197	Cre02.g141400.t1.2, Cre04.g214500.t1.3, Cre17.g703700.t1.1, Cre03.g149100.t1.2, Cre03.g194200.t1.2, Cre02.g145800.t1.2
+Antigen processing and presentation	4	0.1733	Cre12.g514850.t1.2, Cre08.g372100.t1.2, Cre06.g250100.t1.2, Cre09.g407700.t1.2
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	3	0.17663	Cre10.g441100.t1.2, Cre07.g320650.t1.3, Cre10.g462200.t1.2
+Hypertrophic cardiomyopathy (HCM)	3	0.17663	Cre12.g484350.t1.3, Cre13.g570250.t1.3, Cre06.g249300.t1.2
+Glycolysis / Gluconeogenesis	12	0.17894	Cre12.g527400.t1.3, Cre12.g500150.t1.1, Cre12.g485150.t1.2, Cre02.g141400.t1.2, Cre07.g353450.t1.2, Cre06.g280950.t1.2, Cre03.g194200.t1.2, Cre05.g234700.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre10.g431550.t1.1, Cre02.g086500.t1.2
+VEGF signaling pathway	5	0.1838	Cre12.g530550.t1.3, Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Melanogenesis	6	0.18832	Cre13.g607300.t1.2, Cre01.g051250.t1.2, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+MAPK signaling pathway - fly	4	0.19538	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Biosynthesis of siderophore group nonribosomal peptides	1	0.19953	Cre10.g448500.t1.3
+D-Glutamine and D-glutamate metabolism	1	0.19953	Cre09.g388800.t1.2
+Starch and sucrose metabolism	12	0.20032	Cre12.g552200.t1.2, Cre10.g444700.t1.1, Cre12.g488000.t1.2, Cre08.g384750.t1.1, Cre16.g683450.t1.2, Cre03.g194700.t1.3, Cre04.g226600.t1.3, Cre06.g270500.t1.3, Cre07.g320850.t1.2, Cre17.g730600.t1.1, Cre17.g711200.t1.2, Cre06.g283400.t1.2
+Vasopressin-regulated water reabsorption	5	0.20286	Cre11.g476050.t1.2, Cre06.g297850.t1.3, Cre17.g720050.t1.2, Cre01.g019850.t1.3, Cre03.g199000.t1.2
+Tropane, piperidine and pyridine alkaloid biosynthesis	3	0.2046	Cre01.g000650.t1.3, Cre16.g682100.t1.2, Cre02.g105150.t1.3
+GnRH signaling pathway	6	0.20523	Cre13.g607300.t1.2, Cre01.g051250.t1.2, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Two-component system	6	0.20523	Cre13.g590500.t1.1, Cre12.g498500.t1.2, Cre13.g571200.t1.3, Cre03.g207250.t1.2, Cre06.g251250.t1.3, Cre01.g013300.t1.1
+Oocyte meiosis	21	0.21443	Cre13.g567800.t1.2, Cre12.g559250.t1.2, Cre13.g607300.t1.2, Cre08.g380400.t1.2, Cre13.g562950.t1.3, Cre10.g451400.t1.3, Cre01.g051250.t1.2, Cre13.g575650.t1.3, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g494500.t1.2, Cre17.g723300.t1.3, Cre04.g228300.t1.3, Cre12.g498650.t1.2, Cre12.g551250.t1.2, Cre13.g592000.t1.2, Cre10.g432250.t1.3, Cre17.g735550.t1.3, Cre01.g029200.t1.3, Cre07.g323100.t1.3, Cre14.g628200.t1.3
+Fatty acid biosynthesis	4	0.21827	Cre03.g172000.t1.2, Cre12.g484000.t1.2, Cre02.g088250.t1.2, Cre01.g028600.t1.2
+Limonene and pinene degradation	4	0.21827	Cre12.g500150.t1.1, Cre02.g103100.t1.1, Cre09.g415850.t1.2, Cre10.g427350.t1.3
+mTOR signaling pathway	6	0.22266	Cre13.g607300.t1.2, Cre09.g400650.t1.2, Cre13.g570250.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g169100.t1.3
+Neurotrophin signaling pathway	9	0.22719	Cre12.g559250.t1.2, Cre13.g607300.t1.2, Cre01.g051250.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g177550.t1.2, Cre10.g446700.t1.2, Cre08.g380600.t1.3
+beta-Alanine metabolism	3	0.23348	Cre01.g000650.t1.3, Cre12.g500150.t1.1, Cre02.g090150.t1.2
+Endocytosis	10	0.23491	Cre08.g372100.t1.2, Cre06.g250100.t1.2, Cre12.g523050.t1.3, Cre16.g678100.t1.2, Cre01.g024300.t1.2, Cre03.g204800.t1.2, Cre17.g716450.t1.3, Cre12.g533750.t1.3, Cre16.g664450.t1.3, Cre01.g022100.t1.2
+Glycine, serine and threonine metabolism	7	0.23678	Cre09.g411900.t1.2, Cre02.g073200.t1.2, Cre01.g000650.t1.3, Cre03.g193750.t1.3, Cre06.g301650.t1.2, Cre07.g334350.t1.2, Cre03.g172250.t1.3
+Progesterone-mediated oocyte maturation	13	0.23901	Cre12.g514850.t1.2, Cre13.g607300.t1.2, Cre08.g380400.t1.2, Cre13.g562950.t1.3, Cre13.g575650.t1.3, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g494500.t1.2, Cre17.g723300.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre07.g323100.t1.3, Cre14.g628200.t1.3
+Aldosterone-regulated sodium reabsorption	4	0.24182	Cre13.g607300.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g169100.t1.3
+Endometrial cancer	5	0.24278	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g169100.t1.3
+Renal cell carcinoma	5	0.24278	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g206800.t1.3
+Alzheimer's disease	13	0.25039	Cre12.g485150.t1.2, Cre07.g327400.t1.1, Cre15.g638500.t1.2, Cre01.g051900.t1.2, Cre13.g607300.t1.2, Cre16.g680000.t1.2, Cre01.g051250.t1.2, Cre16.g679500.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre17.g732000.t1.3, Cre04.g221700.t1.2, Cre10.g448850.t1.2
+Biosynthesis of terpenoids and steroids	15	0.25672	Cre16.g663950.t1.2, Cre03.g149100.t1.2, Cre04.g214500.t1.3, Cre06.g280950.t1.2, Cre12.g527400.t1.3, Cre01.g022500.t1.2, Cre17.g703700.t1.1, Cre12.g485150.t1.2, Cre03.g194200.t1.2, Cre02.g145800.t1.2, Cre05.g234700.t1.3, Cre03.g166950.t1.2, Cre07.g354250.t1.2, Cre03.g149650.t1.3, Cre02.g086500.t1.2
+Focal adhesion	8	0.26267	Cre13.g607300.t1.2, Cre01.g029850.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre06.g249300.t1.2, Cre03.g169100.t1.3, Cre10.g448850.t1.2
+Cardiac muscle contraction	3	0.26303	Cre15.g638500.t1.2, Cre01.g051900.t1.2, Cre04.g221700.t1.2
+Reductive carboxylate cycle (CO2 fixation)	3	0.26303	Cre04.g214500.t1.3, Cre07.g353450.t1.2, Cre03.g171950.t1.3
+Glyoxylate and dicarboxylate metabolism	5	0.26348	Cre03.g171300.t1.2, Cre03.g149100.t1.2, Cre06.g282800.t1.2, Cre02.g145800.t1.2, Cre16.g689700.t1.3
+Type II diabetes mellitus	5	0.26348	Cre06.g280950.t1.2, Cre13.g607300.t1.2, Cre05.g234700.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Acute myeloid leukemia	4	0.26592	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Melanoma	4	0.26592	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Thyroid cancer	4	0.26592	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+gamma-Hexachlorocyclohexane degradation	6	0.27754	Cre01.g002050.t1.2, Cre07.g340850.t1.2, Cre06.g259650.t1.2, Cre02.g103100.t1.1, Cre09.g396450.t1.3, Cre10.g427350.t1.3
+Benzoate degradation via hydroxylation	1	0.28386	Cre17.g723650.t1.2
+Peptidoglycan biosynthesis	1	0.28386	Cre12.g519900.t1.2
+Phosphonate and phosphinate metabolism	1	0.28386	Cre12.g539000.t1.2
+Styrene degradation	1	0.28386	Cre02.g091200.t1.3
+Cyanoamino acid metabolism	2	0.28446	Cre09.g411900.t1.2, Cre07.g320850.t1.2
+Glioma	5	0.28456	Cre13.g607300.t1.2, Cre01.g051250.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Inositol phosphate metabolism	5	0.28456	Cre16.g675650.t1.2, Cre06.g270200.t1.3, Cre12.g523050.t1.3, Cre12.g555450.t1.2, Cre08.g376100.t1.2
+Oxidative phosphorylation	12	0.29558	Cre02.g076350.t1.2, Cre03.g164600.t1.2, Cre07.g327400.t1.1, Cre15.g638500.t1.2, Cre01.g051900.t1.2, Cre03.g199800.t1.1, Cre16.g680000.t1.2, Cre09.g406400.t1.3, Cre16.g679500.t1.2, Cre06.g257450.t1.2, Cre17.g732000.t1.3, Cre04.g221700.t1.2
+Parkinson's disease	10	0.30326	Cre09.g386400.t1.2, Cre07.g327400.t1.1, Cre15.g638500.t1.2, Cre01.g051900.t1.2, Cre16.g680000.t1.2, Cre16.g679500.t1.2, Cre17.g732000.t1.3, Cre04.g221700.t1.2, Cre03.g194250.t1.2, Cre09.g394800.t1.3
+alpha-Linolenic acid metabolism	2	0.32524	Cre16.g695050.t1.2, Cre12.g512300.t1.2
+Phosphatidylinositol signaling system	5	0.32756	Cre06.g270200.t1.3, Cre12.g523050.t1.3, Cre12.g489050.t1.2, Cre01.g051250.t1.2, Cre08.g376100.t1.2
+B cell receptor signaling pathway	4	0.34019	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Galactose metabolism	4	0.34019	Cre12.g488000.t1.2, Cre03.g194700.t1.3, Cre10.g440050.t1.2, Cre10.g432900.t1.2
+Pancreatic cancer	4	0.34019	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Valine, leucine and isoleucine degradation	4	0.34019	Cre16.g675650.t1.2, Cre12.g500150.t1.1, Cre17.g723650.t1.2, Cre02.g081400.t1.2
+Gap junction	12	0.34744	Cre13.g607300.t1.2, Cre03.g199000.t1.2, Cre03.g172650.t1.2, Cre06.g249150.t1.3, Cre07.g321000.t1.3, Cre01.g021700.t1.3, Cre17.g723300.t1.3, Cre03.g200800.t1.3, Cre10.g431250.t1.3, Cre12.g551250.t1.2, Cre12.g518350.t1.3, Cre10.g432250.t1.3
+Olfactory transduction	3	0.35335	Cre01.g051250.t1.2, Cre03.g199000.t1.2, Cre17.g706900.t1.2
+Atrazine degradation	1	0.35932	Cre12.g509600.t1.3
+Circadian rhythm - mammal	1	0.35932	Cre12.g534550.t1.1
+Primary immunodeficiency	1	0.35932	Cre03.g161000.t1.3
+Biotin metabolism	2	0.36538	Cre06.g296750.t1.2, Cre10.g428950.t1.2
+Folate biosynthesis	2	0.36538	Cre03.g176800.t1.3, Cre02.g116000.t1.3
+Alanine, aspartate and glutamate metabolism	5	0.37115	Cre01.g004300.t1.2, Cre10.g451950.t1.2, Cre12.g528450.t1.2, Cre09.g388800.t1.2, Cre03.g207250.t1.2
+Pantothenate and CoA biosynthesis	3	0.38336	Cre02.g081400.t1.2, Cre02.g090150.t1.2, Cre13.g572500.t1.2
+Linoleic acid metabolism	4	0.39018	Cre08.g370550.t1.3, Cre12.g512300.t1.2, Cre10.g461900.t1.2, Cre07.g340850.t1.2
+Natural killer cell mediated cytotoxicity	4	0.39018	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Axon guidance	5	0.39298	Cre13.g607300.t1.2, Cre01.g029850.t1.2, Cre01.g014500.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Huntington's disease	15	0.39393	Cre16.g685450.t1.3, Cre02.g107350.t1.3, Cre03.g180800.t1.1, Cre12.g506000.t1.2, Cre07.g327400.t1.1, Cre15.g638500.t1.2, Cre01.g051900.t1.2, Cre13.g605150.t1.2, Cre02.g096150.t1.2, Cre16.g680000.t1.2, Cre16.g679500.t1.2, Cre17.g732000.t1.3, Cre04.g221700.t1.2, Cre15.g641200.t1.2, Cre09.g394800.t1.3
+Vascular smooth muscle contraction	12	0.40076	Cre13.g607300.t1.2, Cre01.g051250.t1.2, Cre01.g029850.t1.2, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre07.g321000.t1.3, Cre01.g021700.t1.3, Cre03.g200800.t1.3, Cre10.g431250.t1.3, Cre12.g551250.t1.2, Cre12.g518350.t1.3, Cre10.g432250.t1.3
+Dilated cardiomyopathy	2	0.40457	Cre03.g199000.t1.2, Cre06.g249300.t1.2
+Leukocyte transendothelial migration	2	0.40457	Cre01.g029850.t1.2, Cre06.g249300.t1.2
+Fc gamma R-mediated phagocytosis	7	0.41175	Cre12.g530550.t1.3, Cre12.g523050.t1.3, Cre13.g607300.t1.2, Cre16.g648100.t1.3, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Arachidonic acid metabolism	3	0.41304	Cre13.g585900.t1.2, Cre10.g458450.t1.3, Cre16.g688550.t1.2
+Naphthalene and anthracene degradation	6	0.4135	Cre03.g172550.t1.2, Cre13.g571950.t1.2, Cre06.g273413.t1.3, Cre02.g103100.t1.1, Cre03.g169700.t1.2, Cre10.g427350.t1.3
+Colorectal cancer	4	0.41502	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Ethylbenzene degradation	1	0.42684	Cre09.g415850.t1.2
+Lipoic acid metabolism	1	0.42684	Cre16.g675250.t1.3
+Tetracycline biosynthesis	1	0.42684	Cre12.g484000.t1.2
+Butanoate metabolism	5	0.43641	Cre12.g500150.t1.1, Cre03.g194200.t1.2, Cre12.g534350.t1.2, Cre08.g370550.t1.3, Cre10.g461900.t1.2
+Fc epsilon RI signaling pathway	4	0.43962	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Bisphenol A degradation	3	0.44226	Cre08.g370550.t1.3, Cre10.g461900.t1.2, Cre02.g103100.t1.1
+Lysine degradation	3	0.44226	Cre12.g500150.t1.1, Cre02.g105150.t1.3, Cre10.g428950.t1.2
+Methane metabolism	3	0.44226	Cre09.g411900.t1.2, Cre09.g417150.t1.2, Cre10.g431550.t1.1
+Sulfur metabolism	3	0.44226	Cre03.g180300.t1.2, Cre01.g039350.t1.2, Cre16.g683550.t1.2
+Arginine and proline metabolism	10	0.46445	Cre12.g500150.t1.1, Cre08.g369300.t1.2, Cre10.g443050.t1.2, Cre10.g424900.t1.2, Cre09.g388800.t1.2, Cre17.g705700.t1.2, Cre02.g084450.t1.2, Cre02.g084400.t1.2, Cre01.g053300.t1.3, Cre03.g207250.t1.2
+Calcium signaling pathway	7	0.46539	Cre06.g270200.t1.3, Cre02.g145100.t1.3, Cre09.g388850.t1.1, Cre12.g530550.t1.3, Cre01.g051250.t1.2, Cre03.g199000.t1.2, Cre09.g394800.t1.3
+Meiosis - yeast	12	0.4679	Cre06.g295700.t1.3, Cre13.g567800.t1.2, Cre06.g270250.t1.3, Cre08.g380400.t1.2, Cre13.g562950.t1.3, Cre10.g451400.t1.3, Cre16.g661100.t1.2, Cre03.g199000.t1.2, Cre01.g029200.t1.3, Cre01.g036250.t1.2, Cre16.g676800.t1.2, Cre03.g194900.t1.3
+Long-term potentiation	6	0.47178	Cre13.g607300.t1.2, Cre01.g051250.t1.2, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Tyrosine metabolism	8	0.47618	Cre01.g000650.t1.3, Cre02.g091200.t1.3, Cre10.g431550.t1.1, Cre03.g172550.t1.2, Cre13.g571950.t1.2, Cre06.g273413.t1.3, Cre09.g415850.t1.2, Cre03.g169700.t1.2
+Drug metabolism - cytochrome P450	5	0.47911	Cre01.g044700.t1.2, Cre12.g559800.t1.2, Cre10.g431550.t1.1, Cre07.g340850.t1.2, Cre03.g168900.t1.2
+Porphyrin and chlorophyll metabolism	7	0.48305	Cre02.g076300.t1.3, Cre12.g498550.t1.3, Cre12.g525700.t1.2, Cre12.g510800.t1.2, Cre01.g005850.t1.2, Cre13.g587100.t1.2, Cre13.g583050.t1.3
+High-mannose type N-glycan biosynthesis	1	0.48726	Cre12.g537500.t1.3
+Chronic myeloid leukemia	4	0.48783	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Glutathione metabolism	6	0.49087	Cre12.g526800.t1.2, Cre01.g044700.t1.2, Cre04.g214500.t1.3, Cre17.g708800.t1.3, Cre10.g458450.t1.3, Cre12.g559800.t1.2
+Nicotinate and nicotinamide metabolism	3	0.49884	Cre12.g528450.t1.2, Cre06.g251450.t1.3, Cre06.g271050.t1.3
+TGF-beta signaling pathway	4	0.5113	Cre13.g607300.t1.2, Cre01.g029850.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Apoptosis	2	0.51427	Cre03.g199000.t1.2, Cre10.g448850.t1.2
+Circadian rhythm - plant	2	0.51427	Cre01.g040150.t1.2, Cre06.g275350.t1.3
+RNA degradation	12	0.52082	Cre06.g280050.t1.2, Cre17.g731050.t1.2, Cre01.g040500.t1.2, Cre14.g624500.t1.2, Cre12.g507250.t1.3, Cre11.g475850.t1.2, Cre01.g027150.t1.3, Cre03.g156150.t1.3, Cre03.g188750.t1.2, Cre01.g052000.t1.2, Cre07.g349300.t1.2, Cre07.g319750.t1.2
+1- and 2-Methylnaphthalene degradation	3	0.52603	Cre10.g431550.t1.1, Cre02.g103100.t1.1, Cre09.g415850.t1.2
+ErbB signaling pathway	4	0.53427	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+1,2-Dichloroethane degradation	1	0.54132	Cre12.g500150.t1.1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	1	0.54132	Cre06.g249300.t1.2
+Stilbenoid, diarylheptanoid and gingerol biosynthesis	1	0.54132	Cre10.g427350.t1.3
+Taurine and hypotaurine metabolism	1	0.54132	Cre09.g396700.t1.2
+Cell cycle	12	0.55948	Cre06.g270250.t1.3, Cre06.g295700.t1.3, Cre04.g215750.t1.2, Cre12.g559250.t1.2, Cre08.g380400.t1.2, Cre13.g562950.t1.3, Cre13.g575650.t1.3, Cre12.g494500.t1.2, Cre17.g723300.t1.3, Cre17.g709750.t1.3, Cre01.g029200.t1.3, Cre07.g323100.t1.3
+Valine, leucine and isoleucine biosynthesis	3	0.57784	Cre02.g073200.t1.2, Cre03.g194200.t1.2, Cre02.g081400.t1.2
+Fatty acid metabolism	4	0.57852	Cre03.g182050.t1.2, Cre17.g723650.t1.2, Cre12.g500150.t1.1, Cre10.g431550.t1.1
+Tetrachloroethene degradation	2	0.57962	Cre08.g370550.t1.3, Cre10.g461900.t1.2
+Long-term depression	9	0.5895	Cre13.g607300.t1.2, Cre06.g249150.t1.3, Cre07.g321000.t1.3, Cre01.g021700.t1.3, Cre03.g200800.t1.3, Cre10.g431250.t1.3, Cre12.g551250.t1.2, Cre12.g518350.t1.3, Cre10.g432250.t1.3
+Isoquinoline alkaloid biosynthesis	1	0.5897	Cre01.g000650.t1.3
+Cell cycle - yeast	10	0.59199	Cre02.g086650.t1.2, Cre06.g270250.t1.3, Cre06.g295700.t1.3, Cre04.g215750.t1.2, Cre08.g380400.t1.2, Cre13.g562950.t1.3, Cre12.g542350.t1.2, Cre01.g039500.t1.2, Cre01.g029200.t1.3, Cre01.g020400.t1.2
+Regulation of actin cytoskeleton	9	0.6174	Cre12.g523050.t1.3, Cre13.g607300.t1.2, Cre16.g648100.t1.3, Cre01.g029850.t1.2, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre06.g249300.t1.2, Cre14.g628200.t1.3
+PPAR signaling pathway	4	0.62027	Cre17.g723650.t1.2, Cre03.g182050.t1.2, Cre15.g641200.t1.2, Cre03.g169100.t1.3
+Pathways in cancer	11	0.63201	Cre12.g514850.t1.2, Cre13.g607300.t1.2, Cre13.g575650.t1.3, Cre06.g249150.t1.3, Cre12.g494500.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre03.g206800.t1.3, Cre06.g268150.t1.3, Cre13.g573550.t1.3, Cre02.g112800.t1.3
+3-Chloroacrylic acid degradation	2	0.63828	Cre12.g500150.t1.1, Cre10.g431550.t1.1
+MAPK signaling pathway - yeast	2	0.63828	Cre17.g733300.t1.3, Cre10.g464100.t1.2
+Metabolism of xenobiotics by cytochrome P450	4	0.65934	Cre01.g044700.t1.2, Cre12.g559800.t1.2, Cre10.g431550.t1.1, Cre07.g340850.t1.2
+Ascorbate and aldarate metabolism	2	0.66511	Cre12.g500150.t1.1, Cre01.g031500.t1.2
+One carbon pool by folate	2	0.66511	Cre03.g193750.t1.3, Cre09.g411900.t1.2
+Histidine metabolism	5	0.6698	Cre12.g500150.t1.1, Cre03.g172550.t1.2, Cre13.g571950.t1.2, Cre06.g273413.t1.3, Cre03.g169700.t1.2
+Selenoamino acid metabolism	5	0.68613	Cre06.g301650.t1.2, Cre03.g172550.t1.2, Cre13.g571950.t1.2, Cre06.g273413.t1.3, Cre03.g169700.t1.2
+Cysteine and methionine metabolism	4	0.6956	Cre10.g461750.t1.2, Cre06.g286650.t1.3, Cre03.g180750.t1.2, Cre06.g301650.t1.2
+Streptomycin biosynthesis	1	0.70635	Cre08.g376100.t1.2
+ABC transporters	8	0.71063	Cre17.g725150.t1.2, Cre02.g097800.t1.3, Cre12.g530900.t1.2, Cre14.g618400.t1.2, Cre17.g721000.t1.2, Cre01.g001350.t1.2, Cre03.g164150.t1.3, Cre07.g335400.t1.1
+Vibrio cholerae infection	4	0.71267	Cre02.g076350.t1.2, Cre03.g199000.t1.2, Cre06.g257450.t1.2, Cre06.g249300.t1.2
+Small cell lung cancer	2	0.71394	Cre13.g575650.t1.3, Cre12.g494500.t1.2
+SNARE interactions in vesicular transport	2	0.71394	Cre12.g554700.t1.2, Cre04.g224750.t1.2
+Aminoacyl-tRNA biosynthesis	5	0.71714	Cre10.g421600.t1.2, Cre06.g273300.t1.2, Cre13.g606050.t1.2, Cre05.g233800.t1.2, Cre06.g296250.t1.3
+Phenylalanine metabolism	2	0.73604	Cre01.g000650.t1.3, Cre09.g415850.t1.2
+Pentose phosphate pathway	3	0.74682	Cre12.g526800.t1.2, Cre03.g187450.t1.2, Cre09.g394550.t1.2
+Tryptophan metabolism	2	0.75667	Cre12.g500150.t1.1, Cre09.g417150.t1.2
+Photosynthesis	3	0.76359	Cre09.g412100.t1.2, Cre07.g330250.t1.2, Cre03.g165100.t1.2
+Amyotrophic lateral sclerosis (ALS)	1	0.76508	Cre09.g417150.t1.2
+Renin-angiotensin system	1	0.76508	Cre06.g279400.t1.2
+Plant-pathogen interaction	5	0.77246	Cre12.g514850.t1.2, Cre17.g705000.t1.2, Cre10.g418900.t1.2, Cre01.g051250.t1.2, Cre06.g249150.t1.3
+Tight junction	3	0.77946	Cre02.g099200.t1.3, Cre03.g168150.t1.2, Cre06.g249300.t1.2
+Pentose and glucuronate interconversions	1	0.78989	Cre10.g432900.t1.2
+Epithelial cell signaling in Helicobacter pylori infection	2	0.79377	Cre02.g076350.t1.2, Cre06.g257450.t1.2
+Glycerolipid metabolism	3	0.79444	Cre02.g143000.t1.2, Cre12.g500150.t1.1, Cre10.g432900.t1.2
+Nucleotide excision repair	5	0.80825	Cre12.g516500.t1.1, Cre11.g468450.t1.2, Cre17.g709750.t1.3, Cre09.g397350.t1.3, Cre06.g283550.t1.1
+Lysine biosynthesis	1	0.81208	Cre12.g519900.t1.2
+Viral myocarditis	1	0.81208	Cre06.g249300.t1.2
+p53 signaling pathway	3	0.82185	Cre13.g575650.t1.3, Cre12.g494500.t1.2, Cre17.g723300.t1.3
+Retinol metabolism	3	0.82185	Cre10.g431550.t1.1, Cre07.g340850.t1.2, Cre08.g380550.t1.2
+Hedgehog signaling pathway	2	0.82578	Cre03.g199000.t1.2, Cre06.g268150.t1.3
+Fructose and mannose metabolism	3	0.8571	Cre08.g370550.t1.3, Cre10.g461900.t1.2, Cre10.g432900.t1.2
+Carotenoid biosynthesis	1	0.86559	Cre03.g149650.t1.3
+N-Glycan biosynthesis	2	0.87674	Cre09.g414250.t1.3, Cre12.g537500.t1.3
+Basal cell carcinoma	1	0.8798	Cre06.g268150.t1.3
+Ether lipid metabolism	1	0.8798	Cre10.g460350.t1.3
+Notch signaling pathway	1	0.8798	Cre06.g280700.t1.2
+Ubiquinone and other terpenoid-quinone biosynthesis	2	0.88713	Cre09.g393400.t1.2, Cre10.g429800.t1.2
+Cell cycle - Caulobacter	1	0.89251	Cre02.g141550.t1.2
+Regulation of autophagy	1	0.89251	Cre13.g570250.t1.3
+Purine metabolism	23	0.90472	Cre07.g312350.t1.3, Cre06.g280950.t1.2, Cre13.g592050.t1.2, Cre03.g161000.t1.3, Cre06.g293000.t1.3, Cre05.g234700.t1.3, Cre12.g536050.t1.2, Cre16.g683500.t1.2, Cre02.g085100.t1.2, Cre07.g321000.t1.3, Cre06.g271050.t1.3, Cre01.g021700.t1.3, Cre16.g654300.t1.2, Cre03.g200800.t1.3, Cre10.g431250.t1.3, Cre12.g518350.t1.3, Cre03.g188550.t1.2, Cre10.g440300.t1.1, Cre10.g440200.t1.3, Cre03.g171200.t1.2, Cre16.g676800.t1.2, Cre09.g394550.t1.2, Cre03.g194900.t1.3
+Protein export	2	0.90552	Cre02.g080600.t1.2, Cre09.g406800.t1.3
+Ubiquitin mediated proteolysis	9	0.90877	Cre12.g516500.t1.1, Cre09.g386400.t1.2, Cre11.g479650.t1.2, Cre13.g562950.t1.3, Cre12.g533750.t1.3, Cre08.g367650.t1.2, Cre12.g498450.t1.2, Cre13.g570300.t1.2, Cre01.g022100.t1.2
+DNA replication	3	0.90974	Cre07.g312350.t1.3, Cre06.g295700.t1.3, Cre06.g293000.t1.3
+Steroid biosynthesis	1	0.92314	Cre16.g663950.t1.2
+Lysosome	4	0.93338	Cre06.g279400.t1.2, Cre09.g407700.t1.2, Cre16.g657950.t1.3, Cre06.g257450.t1.2
+Pyrimidine metabolism	7	0.93668	Cre07.g312350.t1.3, Cre06.g293000.t1.3, Cre03.g190800.t1.1, Cre16.g654300.t1.2, Cre02.g086050.t1.3, Cre03.g171200.t1.2, Cre12.g550400.t1.2
+Basal transcription factors	1	0.94506	Cre13.g583500.t1.3
+Proteasome	2	0.94526	Cre10.g424400.t1.2, Cre08.g385700.t1.2
+Adherens junction	6	0.95478	Cre13.g607300.t1.2, Cre16.g666300.t1.3, Cre12.g524450.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre06.g249300.t1.2
+Leishmania infection	5	0.95701	Cre13.g607300.t1.2, Cre16.g666300.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre01.g001400.t1.1
+Drug metabolism - other enzymes	1	0.9649	Cre07.g340850.t1.2
+NOD-like receptor signaling pathway	5	0.96532	Cre12.g514850.t1.2, Cre13.g607300.t1.2, Cre16.g666300.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Toll-like receptor signaling pathway	5	0.96532	Cre13.g607300.t1.2, Cre16.g666300.t1.3, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+Wnt signaling pathway	6	0.9719	Cre13.g567800.t1.2, Cre03.g158550.t1.2, Cre10.g451400.t1.3, Cre01.g029850.t1.2, Cre16.g666300.t1.3, Cre03.g199000.t1.2
+Amino sugar and nucleotide sugar metabolism	2	0.97652	Cre16.g683450.t1.2, Cre10.g440050.t1.2
+Sphingolipid metabolism	1	0.98209	Cre12.g530550.t1.3
+Steroid hormone biosynthesis	1	0.98569	Cre07.g340850.t1.2
+T cell receptor signaling pathway	5	0.98583	Cre13.g607300.t1.2, Cre16.g666300.t1.3, Cre06.g249150.t1.3, Cre12.g551250.t1.2, Cre10.g432250.t1.3
+MAPK signaling pathway	11	0.98855	Cre08.g372100.t1.2, Cre06.g250100.t1.2, Cre13.g607300.t1.2, Cre16.g666300.t1.3, Cre03.g199000.t1.2, Cre06.g249150.t1.3, Cre03.g168150.t1.2, Cre12.g551250.t1.2, Cre10.g432250.t1.3, Cre14.g628200.t1.3, Cre08.g380600.t1.3
+Homologous recombination	1	0.98857	Cre06.g287950.t1.3
+Spliceosome	10	0.99141	Cre14.g621000.t1.2, Cre03.g158150.t1.3, Cre08.g372800.t1.3, Cre16.g676400.t1.2, Cre08.g372100.t1.2, Cre06.g250100.t1.2, Cre12.g559850.t1.1, Cre12.g516200.t1.2, Cre13.g567750.t1.2, Cre12.g522400.t1.3
+RIG-I-like receptor signaling pathway	2	0.9973	Cre16.g666300.t1.3, Cre16.g661900.t1.3
+Systemic lupus erythematosus	2	1	Cre03.g197050.t1.2, Cre02.g106250.t1.2
